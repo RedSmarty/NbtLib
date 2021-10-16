@@ -1,0 +1,6 @@
+name: NbtLib
+version: ${project.version}
+main: xyz.redsmarty.nbtlib.NbtLib
+api-version: 1.17
+authors: [ RedSmarty ]
+description: Allows you to read and write nbt with cross version support
